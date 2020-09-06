@@ -4,15 +4,15 @@
         "id": "ellodev",
         "name": "Ellodev",
         "description": "The current Website",
-        "url": "ellodev.vercel.app",
+        "url": "https://ellodev.vercel.app",
         "link": "https://ellodev.vercel.app"
       },
       {
-        "id": "ellodev",
-        "name": "Ellodev",
-        "description": "The current Website",
-        "url": "ellodev.vercel.app",
-        "link": "https://ellodev.vercel.app"
+        "id": "clean-time",
+        "name": "Clean-Time",
+        "description": "A Website that shows Weather and time. I and Slowlydev coded it.",
+        "url": "https://clean-time.now.sh",
+        "link": "https://clean-time.now.sh"
       }
     ],
     "posts": [
