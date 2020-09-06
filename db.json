@@ -1,9 +1,10 @@
 {
     "projects": [
       {
-        "id": "Ellodev",
-        "title": "ellodev.vercel.app",
+        "id": "ellodev",
+        "name": "Ellodev",
         "description": "The current Website",
+        "url": "ellodev.vercel.app",
         "link": "https://ellodev.vercel.app"
       }
     ],
